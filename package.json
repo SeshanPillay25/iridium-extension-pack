@@ -3,7 +3,7 @@
     "displayName": "Iridium - Extension Pack",
     "description": "Some of my favourite extensions for VSCode, .NET, and React development",
     "publisher": "SeshanPillay",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.60.0"
     },
